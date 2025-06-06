@@ -17,8 +17,3 @@ consistent performance for all users.
 ✅ **Vite-powered build**: The project runs on Vite, delivering lightning-fast
 development and optimized builds.
 
-![Image](https://github.com/user-attachments/assets/fe1471bb-b129-4e7a-964c-5d9bdd22f9c0)
-
-![Image](https://github.com/user-attachments/assets/e09aa4e2-5a4d-4ef4-b1c4-08d7b9860b61)
-
-![Image](https://github.com/user-attachments/assets/fa99fdec-2696-46d7-ac8f-773f5ae815ed)
