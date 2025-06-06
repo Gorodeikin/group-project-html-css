@@ -1,9 +1,6 @@
-🌟 Meet our team project — a sleek frontend that captivates!
+Meet our team project — a sleek frontend that captivates!
 
-We, a group of developers, set out to challenge ourselves: build a modern,
-user-friendly website using HTML, CSS, and a touch of JavaScript. This project
-became our playground for creativity, skill-sharpening, and proving that a
-minimal tech stack can deliver stunning results.
+In this project, I was responsible for the About Us section.
 
 What makes this project shine?
 
@@ -19,15 +16,6 @@ and extend.
 consistent performance for all users.  
 ✅ **Vite-powered build**: The project runs on Vite, delivering lightning-fast
 development and optimized builds.
-
-🔗 Ready to check it out? Visit the
-[live server](https://mrmantikor.github.io/project-senior-s-html/) or dive into
-the code at the
-[repository](https://github.com/Mrmantikor/project-senior-s-html). We’d love
-your feedback, so feel free to share your thoughts and ideas!
-
-This project is our way of showcasing a passion for web development through
-clean code and thoughtful design. Take a look and let us know what you think! 🚀
 
 ![Image](https://github.com/user-attachments/assets/fe1471bb-b129-4e7a-964c-5d9bdd22f9c0)
 
